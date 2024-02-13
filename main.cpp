@@ -57,7 +57,7 @@ T fibRecurArray(vector<T>& arr, int n)
 }
 
 void timeStamp() {
-    cout<<"Student Name:  Luz Jauregui "<< endl;
+    cout<<"Name:  Luz Jauregui "<< endl;
    
     time_t tmNow = time(0);
     char *dt = time(&tmNow);
